@@ -1,3 +1,6 @@
-# Group_22
-Hello there. I'm trying to edit my second README.md file.
-But I'm doing with cmnder now. Oh yeah.
+# Vadim Ksendzov's QA Courses | Group 22 | Git Practice
+
+	Good day.
+
+	There will be training repository within my personal practice and homeworks.
+	I'm working in cmnder.
