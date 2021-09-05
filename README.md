@@ -2,5 +2,5 @@
 
 	Good day.
 
-	There will be training repository within my personal practice and homeworks.
+	There will be training repository within my personal practice and Homeworks.
 	I'm working in cmnder.
