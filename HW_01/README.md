@@ -15,7 +15,13 @@
 14. переместить любые 2 файла, которые вы создали, в любую другую папку.	`mv -t foldername1 1_json_file.json 1_text_file.txt`
 15. скопировать любые 2 файла, которые вы создали, в любую другую папку.	`cp -t foldername2 2_json_file.json 2_text_file.txt`
 16. Найти файл по имени								`find -L /c/Courses/Group_22/ -name "3_text_file.txt"`
-17. просмотреть содержимое в реальном времени (команда grep)			`grep -i insert foldername1/1_text_file.txt`
+17. просмотреть содержимое в реальном времени (команда grep)
+```sh
+grep -i insert foldername1/1_text_file.txt
+```
+```sh
+tail -f foldername1/1_text_file.txt
+```
 18. вывести несколько первых строк из текстового файла				`head foldername1/1_text_file.txt`
 19. вывести несколько последних строк из текстового файла			`tail foldername1/1_text_file.txt`
 20. просмотреть содержимое длинного файла (команда less)			`less -F -E /c/Windows/setupact.log`
