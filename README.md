@@ -1,6 +1,5 @@
-# Vadim Ksendzov's QA Courses | Group 22 | Git Practice
-
-	Good day.
-
-	There will be training repository within my personal practice and Homeworks.
-	I'm working in cmnder.
+# Vadim Ksendzov's QA Courses | Group 22
+### Homeworks List
+| # | Disription |
+|:---:| --- |
+| *01* | Basic Bash commands, simple script |
